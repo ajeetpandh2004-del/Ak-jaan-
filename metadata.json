@@ -1,0 +1,6 @@
+{
+  "name": "Connectify",
+  "description": "Connectify — Modern social media app with Photo & Video Posts, Reels with Music, 24-hour Stories, Direct Chat, Notifications, Settings, and Admin Moderation powered by Firebase.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

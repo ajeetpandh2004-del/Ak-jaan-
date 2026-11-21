@@ -1,0 +1,8 @@
+{
+  "appId": "com.connectify.social",
+  "appName": "Connectify",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
